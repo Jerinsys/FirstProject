@@ -8,3 +8,6 @@ void SimplePrint(){
  void Test(){
     System.Console.WriteLine("jerin ");
 }
+
+void NewFunc(){
+}
